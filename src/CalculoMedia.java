@@ -6,7 +6,7 @@ public class CalculoMedia {
         double nota3 = 6.5;
         double nota4 = 9.0;
 
-        double media = (nota1 + nota2 + nota3) / 3;
+        double media = (nota1 + nota2 + nota3 + nota4) / 4;
 
         System.out.println("A média das notas é: " + media);
     }
